@@ -1,4 +1,4 @@
-This document outlines the code execution instructions for the fully connected neural network model training process and the Bayesian optimization process covered in the article.
+This document outlines the code execution instructions for the fully connected neural network model training process and the Bayesian optimization process covered in the article "Data-Intelligent Design of Platinum-Based High-Entropy Alloys for Efficient Methanol Oxidation Driven by a Robotic AI-Chemist".
 
 
 
@@ -23,6 +23,7 @@ In the nth iteration, first copy and paste the dataset file into the same folder
 3.Note
 
 Due to the introduction of the dropout mechanism during model training, some neural network nodes are randomly closed in each training session, resulting in slightly different models each time. Therefore, we provide the actual model files obtained during each training round in the model folder.
+
 
 
 
